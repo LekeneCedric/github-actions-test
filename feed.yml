@@ -1,0 +1,27 @@
+title: "Tech Talk Weekly"
+description: "A podcast that explores the latest in technology, programming, and innovation."
+language: "en"
+author: "Tech Talk Team"
+episodes:
+  - title: "The Future of AI in Everyday Life"
+    episode_number: 1
+    description: "In this episode, we discuss how AI is transforming daily tasks and what the future holds for artificial intelligence."
+    release_date: "2024-12-01"
+    duration: "25:30"
+    audio_url: "https://example.com/podcast/ep1-future-of-ai.mp3"
+    transcript_url: "https://example.com/podcast/ep1-transcript.txt"
+    tags:
+      - "AI"
+      - "Technology"
+      - "Innovation"
+  - title: "Understanding Blockchain Beyond Cryptocurrency"
+    episode_number: 2
+    description: "We dive into blockchain technology, its applications outside of cryptocurrency, and its potential impact on industries."
+    release_date: "2024-12-08"
+    duration: "30:45"
+    audio_url: "https://example.com/podcast/ep2-blockchain.mp3"
+    transcript_url: "https://example.com/podcast/ep2-transcript.txt"
+    tags:
+      - "Blockchain"
+      - "Technology"
+      - "Innovation"
